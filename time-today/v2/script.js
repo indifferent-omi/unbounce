@@ -1,0 +1,1 @@
+$(".time-today").text(moment().format("Do MMMM, YYYY"));
