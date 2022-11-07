@@ -1,1 +1,1 @@
-$(".time-today").text(moment().format("MMMM Do YYYY");
+$(".time-today").text(moment().format("MMMM Do YYYY"));
